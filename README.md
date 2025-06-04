@@ -96,4 +96,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ---
 
-> Desarrollado con ❤️ por el equipo de MusikOn. Para consultas, escríbenos a [contacto@musikon.com](mailto:contacto@musikon.com)
+> Desarrollado con mucho esfuerzo por el equipo de MusikOn. Para consultas, escríbenos a [contacto@musikon.com](mailto:appmusikon@gmail.com)
