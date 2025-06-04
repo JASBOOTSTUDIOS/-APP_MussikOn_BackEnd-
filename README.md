@@ -84,10 +84,22 @@ Authorization: Bearer tu_token_jwt
 ## ✨ Contribuir
 
 1. Haz un fork del proyecto
-2. Crea una rama nueva (`git checkout -b feature/nombre-rama`)
+2. Crea una rama nueva 
+
+```bash
+git checkout -b feature/nombre-rama
+```
 3. Realiza tus cambios
-4. Haz commit (`git commit -am 'Agrega nueva funcionalidad'`)
-5. Push a tu fork (`git push origin feature/nombre-rama`)
+4. Haz commit 
+
+```bash 
+git commit -am 'Agrega nueva funcionalidad'
+```
+
+5. Push a tu fork
+```bash
+git push origin feature/nombre-rama
+```
 6. Abre un Pull Request
 
 ## 📚 Licencia
