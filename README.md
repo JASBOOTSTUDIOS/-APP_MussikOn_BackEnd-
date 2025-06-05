@@ -4,7 +4,7 @@ Bienvenido al repositorio del **BackEnd de MusikOn**, una plataforma diseñada p
 
 ## 🚀 Descripción
 
-MusikOn es una solución completa para la industria musical, donde músicos y organizadores pueden interactuar en tiempo real, administrar perfiles, solicitudes de eventos, y mantener una agenda sincronizada.
+APP_MussikOn es una solución completa para la industria musical, donde músicos y organizadores pueden interactuar en tiempo real, administrar perfiles, solicitudes de eventos, y mantener una agenda sincronizada.
 
 Este repositorio contiene el servidor desarrollado en **Node.js + Express** con conexión a **Supabase** para autenticación, base de datos y almacenamiento.
 
@@ -108,4 +108,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ---
 
-> Desarrollado con mucho esfuerzo por el equipo de MusikOn. Para consultas, escríbenos a [contacto@musikon.com](mailto:appmusikon@gmail.com)
+> Desarrollado con mucho esfuerzo por el equipo de APP_MussikOn. Para consultas, escríbenos a [appmusikon@gmail.com](mailto:appmusikon@gmail.com)
