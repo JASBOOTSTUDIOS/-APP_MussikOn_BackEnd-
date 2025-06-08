@@ -28,8 +28,9 @@ const router = express.Router();
  *              type: array
  *              items:
  *                type: object
- *                properties:
- *                  id: string
+ *      401: 
+ *        description: No authorizado
+ *          
  *
  */
 

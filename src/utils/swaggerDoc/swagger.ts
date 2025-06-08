@@ -9,7 +9,7 @@ const options = {
             description:'Documentacion de la API APP MussikOn con aswagger',
         },
         servers:[{
-            url:'http:192.168.55.28:3000',
+            url:'http://192.168.55.28:3000',
             description:'Documentación de la API APP MussikOn',
         }],
     },
